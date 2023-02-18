@@ -177,7 +177,6 @@ def lizhi():
     else:
         return ""
         
-
 #下雨概率和建议
 def tip():
     if (tianqi_API!="否"):
